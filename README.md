@@ -1,4 +1,4 @@
-## Hi there 👋
+I am Brett Pedersen, and I am a student studying Data Science at Brigham Young University. I have worked on several projects and labs, which can be found in my repositories. I am proficient in the R and Python programming languages, having a knowledge of many of the data science packages used with them. I also have experience with several other data science tools, such as sql and tableau.
 
 <!--
 **StacheXC/StacheXC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
